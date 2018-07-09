@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  hangfiredocker:
+    image: ${DOCKER_REGISTRY}hangfiredocker
+    build:
+      context: .
+      dockerfile: ../HangfireDocker/Dockerfile
