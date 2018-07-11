@@ -13,6 +13,8 @@ Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "HangfireDocker-compose", "H
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactJs-Minimal", "ReactJs-Minimal\ReactJs-Minimal.csproj", "{FB1FC9BE-5FEB-4188-B9F0-920E17474A98}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactJs-Typescript", "ReactJs-Typescript\ReactJs-Typescript.csproj", "{E8035FC3-CF63-4BE0-A8CF-AE42B8C30A27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{FB1FC9BE-5FEB-4188-B9F0-920E17474A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB1FC9BE-5FEB-4188-B9F0-920E17474A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB1FC9BE-5FEB-4188-B9F0-920E17474A98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8035FC3-CF63-4BE0-A8CF-AE42B8C30A27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8035FC3-CF63-4BE0-A8CF-AE42B8C30A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8035FC3-CF63-4BE0-A8CF-AE42B8C30A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8035FC3-CF63-4BE0-A8CF-AE42B8C30A27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
