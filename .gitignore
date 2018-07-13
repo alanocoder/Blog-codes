@@ -259,3 +259,6 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/ReactJs-GetStarted/wwwroot/dist
+/ReactJs-Typescript-GetStarted/Scripts/_vsCompile
+/ReactJs-Typescript-GetStarted/wwwroot/dist/bundle.js

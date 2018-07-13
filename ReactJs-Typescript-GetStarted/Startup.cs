@@ -23,6 +23,7 @@ namespace ReactJs_Minimal
         {
             if (env.IsDevelopment())
             {
+                app.UseWebpackDevMiddleware();
                 app.UseDeveloperExceptionPage();
             }
 

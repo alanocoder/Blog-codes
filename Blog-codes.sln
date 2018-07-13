@@ -11,9 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HangfireDocker", "HangfireD
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "HangfireDocker-compose", "HangfireDocker-compose\HangfireDocker-compose.dcproj", "{095B2B8E-E3F2-47E3-95F4-614CE5290C0B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactJs-Minimal", "ReactJs-Minimal\ReactJs-Minimal.csproj", "{FB1FC9BE-5FEB-4188-B9F0-920E17474A98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactJs-GetStarted", "ReactJs-GetStarted\ReactJs-GetStarted.csproj", "{B76C88CC-8689-4011-868D-CE255006282D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactJs-Typescript", "ReactJs-Typescript\ReactJs-Typescript.csproj", "{E8035FC3-CF63-4BE0-A8CF-AE42B8C30A27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactJs-Typescript-GetStarted", "ReactJs-Typescript-GetStarted\ReactJs-Typescript-GetStarted.csproj", "{FEC2526A-CFD9-48E7-A265-F2C6B88F8F8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,14 +37,14 @@ Global
 		{095B2B8E-E3F2-47E3-95F4-614CE5290C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{095B2B8E-E3F2-47E3-95F4-614CE5290C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{095B2B8E-E3F2-47E3-95F4-614CE5290C0B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FB1FC9BE-5FEB-4188-B9F0-920E17474A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FB1FC9BE-5FEB-4188-B9F0-920E17474A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FB1FC9BE-5FEB-4188-B9F0-920E17474A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FB1FC9BE-5FEB-4188-B9F0-920E17474A98}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E8035FC3-CF63-4BE0-A8CF-AE42B8C30A27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E8035FC3-CF63-4BE0-A8CF-AE42B8C30A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E8035FC3-CF63-4BE0-A8CF-AE42B8C30A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E8035FC3-CF63-4BE0-A8CF-AE42B8C30A27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B76C88CC-8689-4011-868D-CE255006282D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76C88CC-8689-4011-868D-CE255006282D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76C88CC-8689-4011-868D-CE255006282D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76C88CC-8689-4011-868D-CE255006282D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEC2526A-CFD9-48E7-A265-F2C6B88F8F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC2526A-CFD9-48E7-A265-F2C6B88F8F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC2526A-CFD9-48E7-A265-F2C6B88F8F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC2526A-CFD9-48E7-A265-F2C6B88F8F8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

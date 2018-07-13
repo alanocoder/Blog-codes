@@ -1,11 +1,13 @@
 {
   "compilerOptions": {
+    "outDir": "Scripts/_vsCompile",
     "noImplicitAny": false,
     "noEmitOnError": true,
     "removeComments": false,
     "sourceMap": true,
     "target": "es5",
-    "jsx": "react"
+    "jsx": "react",
+    "lib": [ "es6", "dom" ]
   },
   "exclude": [
     "node_modules",
