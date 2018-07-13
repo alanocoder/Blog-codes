@@ -262,3 +262,5 @@ __pycache__/
 /ReactJs-GetStarted/wwwroot/dist
 /ReactJs-Typescript-GetStarted/Scripts/_vsCompile
 /ReactJs-Typescript-GetStarted/wwwroot/dist/bundle.js
+/ReactJs-Redux-GetStarted/Scripts/_vsCompile
+/ReactJs-Redux-GetStarted/wwwroot/dist/bundle.js
