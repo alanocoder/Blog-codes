@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactJs-Typescript-GetStart
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactJs-Redux-GetStarted", "ReactJs-Redux-GetStarted\ReactJs-Redux-GetStarted.csproj", "{4A9209C0-2C2C-4281-9BFA-8217BF967C37}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactJs-SSR-GetStarted", "ReactJs-SSR-GetStarted\ReactJs-SSR-GetStarted.csproj", "{F78DFB7D-C567-48B0-A704-6D387621966B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{4A9209C0-2C2C-4281-9BFA-8217BF967C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A9209C0-2C2C-4281-9BFA-8217BF967C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A9209C0-2C2C-4281-9BFA-8217BF967C37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F78DFB7D-C567-48B0-A704-6D387621966B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78DFB7D-C567-48B0-A704-6D387621966B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78DFB7D-C567-48B0-A704-6D387621966B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78DFB7D-C567-48B0-A704-6D387621966B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
