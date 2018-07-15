@@ -18,12 +18,13 @@ class Comp extends React.Component<Props_redux, IState> {
 
         var content = null;
         if (status) {
-            content =
-                [
-                    <div>Data obtained from server:</div>,
-                    <div>Status: {status}</div>,
+            content = (
+                <div>
+                    <div>Data obtained from server:</div>
+                    <div>Status: {status}</div>
                     <div>Count: {count}</div>
-                ];
+                </div>
+            );
         }
         return <div>Hello world!{content}</div>;
     }

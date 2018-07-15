@@ -24,9 +24,9 @@ class Comp extends React.Component<Props_redux, IState> {
                     <div>Status: {status}</div>
                     <div>Count: {count}</div>
                 </div>
-            );
+                );
         }
         return <div>Hello world!{content}</div>;
     }
 }
-export var HelloWorld: React.ComponentClass<{}> = connect(state => { return { ...state }; })(Comp);
+export var HelloWorld: React.ComponentClass<{}> = connect(state => { return { ...state['helloWorld'] }; })(Comp);
