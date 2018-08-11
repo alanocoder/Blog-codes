@@ -4,11 +4,11 @@ const path = require('path');
 var csr = { // client side rendering
     mode: 'development',
     target: 'web',
-    entry: "./Scripts/entry.tsx",
+    entry: { bundle: "./Scripts/entry.tsx" },
     output: {
         path: path.resolve(__dirname, 'wwwroot/dist'),
-        publicPath: '/dist', // needed for UseWebpackDevMiddleware()
-        filename: "bundle.js"
+        publicPath: '/dist/', // needed for UseWebpackDevMiddleware()
+        filename: "[name].js"
     },
     module: {
         rules: [
@@ -24,11 +24,11 @@ var csr = { // client side rendering
 var ssr = { // server side rendering
     mode: 'development',
     target: 'node',
-    entry: './Scripts/entry-server.tsx',
+    entry: { bundle: './Scripts/entry-server.tsx' },
     output: {
         libraryTarget: 'commonjs',
         path: path.resolve(__dirname, './Scripts/Dist'),
-        filename: 'bundle-server.js'
+        filename: '[name]-server.js'
     },
     module: {
         rules: [

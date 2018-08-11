@@ -2,7 +2,7 @@
 const path = require('path');
 
 var csr = { // client side rendering
-    mode: 'development',
+    mode: 'production',
     target: 'web',
     entry: { bundle: "./Scripts/entry.tsx" },
     output: {
@@ -22,7 +22,7 @@ var csr = { // client side rendering
 };
 
 var ssr = { // server side rendering
-    mode: 'development',
+    mode: 'production',
     target: 'node',
     entry: { bundle: './Scripts/entry-server.tsx' },
     output: {

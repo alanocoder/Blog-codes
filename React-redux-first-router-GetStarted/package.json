@@ -4,10 +4,20 @@
   "private": true,
   "dependencies": {
     "react": "16.4.1",
-    "react-dom": "16.4.1"
+    "react-dom": "16.4.1",
+    "redux": "4.0.0",
+    "react-redux": "5.0.7",
+    "redux-thunk": "2.3.0",
+    "aspnet-prerendering": "3.0.1",
+    "domain-task": "3.0.3",
+    "redux-first-router": "0.0.16-next",
+    "redux-first-router-link": "1.4.2",
+    "history": "4.7.2",
+    "query-string": "6.1.0"
   },
   "devDependencies": {
     "@types/react": "16.4.6",
+    "@types/react-redux": "6.0.4",
     "webpack": "4.15.1",
     "webpack-cli": "3.0.8",
     "aspnet-webpack": "3.0.0",

@@ -10,6 +10,7 @@
     "redux-thunk": "2.3.0"
   },
   "devDependencies": {
+    "@types/react": "16.4.6",
     "@types/react-redux": "6.0.4",
     "webpack": "4.15.1",
     "webpack-cli": "3.0.8",

@@ -8,7 +8,7 @@ interface Props_redux extends IHelloWorldData {
 }
 interface IState { }
 
-class Comp extends React.Component<Props_redux, IState> {
+class Comp extends React.PureComponent<Props_redux, IState> {
     componentWillMount() {
         if (!this.props.count) this.props.dispatch(retrieveData()); // only get data when it's not available
     }
