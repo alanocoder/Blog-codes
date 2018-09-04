@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "outDir": "Scripts/_vsCompile",
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    /* need this if react-hot-loader/babel plugin is used for babel-loader at webpack.config.js
+    "module": "commonjs",
+    "target": "es6",
+    */
+    "target": "es5",
+    "jsx": "react",
+    "lib": [ "es6", "dom" ]
+  },
+  "exclude": [
+    "node_modules",
+    "wwwroot"
+  ]
+}

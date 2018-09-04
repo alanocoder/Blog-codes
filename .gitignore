@@ -269,3 +269,5 @@ __pycache__/
 /ReactJs-redux-little-router-GetStarted/Scripts/Dist
 /ReactJs-redux-little-router-GetStarted/Scripts/_vsCompile
 /ReactJs-redux-little-router-GetStarted/wwwroot/dist/bundle.js
+/ReactJs-HMR-GetStarted/Scripts/_vsCompile
+/ReactJs-HMR-GetStarted/wwwroot/dist
