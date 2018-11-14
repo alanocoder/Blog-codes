@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "React-redux-first-router-Ge
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactJs-HMR-GetStarted", "ReactJs-HMR-GetStarted\ReactJs-HMR-GetStarted.csproj", "{24C2C70B-AD03-465A-AFFC-D70C8D89D784}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongPollingSimple", "LongPollingSimple\LongPollingSimple.csproj", "{9703AC4B-3309-47C6-9A0D-B918A7CA9A49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{24C2C70B-AD03-465A-AFFC-D70C8D89D784}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24C2C70B-AD03-465A-AFFC-D70C8D89D784}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24C2C70B-AD03-465A-AFFC-D70C8D89D784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9703AC4B-3309-47C6-9A0D-B918A7CA9A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9703AC4B-3309-47C6-9A0D-B918A7CA9A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9703AC4B-3309-47C6-9A0D-B918A7CA9A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9703AC4B-3309-47C6-9A0D-B918A7CA9A49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
