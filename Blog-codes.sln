@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongPollingSimple", "LongPo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactJs-code-splitting-part1", "ReactJs-code-splitting-part1\ReactJs-code-splitting-part1.csproj", "{596DA993-877F-4824-9036-BABDD45FEAC8}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactJs-code-splitting-part2", "ReactJs-code-splitting-part2\ReactJs-code-splitting-part2.csproj", "{D7BE678C-5E1C-40A0-91A7-460BB4FDFE34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{596DA993-877F-4824-9036-BABDD45FEAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{596DA993-877F-4824-9036-BABDD45FEAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{596DA993-877F-4824-9036-BABDD45FEAC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7BE678C-5E1C-40A0-91A7-460BB4FDFE34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7BE678C-5E1C-40A0-91A7-460BB4FDFE34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7BE678C-5E1C-40A0-91A7-460BB4FDFE34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7BE678C-5E1C-40A0-91A7-460BB4FDFE34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
