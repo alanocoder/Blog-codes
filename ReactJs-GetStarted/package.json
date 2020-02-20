@@ -7,7 +7,10 @@
     "react-dom": "16.7.0"
   },
   "devDependencies": {
-    "webpack": "4.15.1",
+    "set-value": "3.0.1",
+    "union-value": "2.0.1",
+    "yargs": "15.1.0",
+    "webpack": "4.41.6",
     "webpack-cli": "3.0.8",
     "aspnet-webpack": "3.0.0",
     "webpack-dev-middleware": "3.1.3",
