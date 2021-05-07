@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "@types/react": "16.4.6",
-    "lodash": "4.17.15",
+    "lodash": "4.17.21",
     "set-value": "3.0.1",
     "union-value": "2.0.1",
     "mixin-deep": "2.0.1",
